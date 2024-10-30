@@ -1,0 +1,253 @@
+.freeofcharge-ad-overlayh {
+
+background: #654ea3;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+padding: 5px 10px 5px 10px;
+position: absolute;
+right: 10px;
+	left: 10px;
+top: 10px;
+z-index: 100;	
+}
+
+
+.freeofcharge-ad-overlay_blue {
+
+background: blue;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+padding: 5px 10px 5px 10px;
+position: absolute;
+right: 10px;
+	left: 10px;
+top: 10px;
+z-index: 100;	
+}
+
+.freeofcharge-ad-overlay_black {
+
+background: black;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+padding: 5px 10px 5px 10px;
+position: absolute;
+right: 10px;
+	left: 10px;
+top: 10px;
+z-index: 100;	
+}
+
+.freeofcharge-ad-overlay_red {
+
+background: red;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+padding: 5px 10px 5px 10px;
+position: absolute;
+right: 10px;
+	left: 10px;
+top: 10px;
+z-index: 100;	
+}
+.wooLiveSalenav-tab{
+        border: 0px;
+    background: white;
+}
+.wooLiveSalenav-tabnav-tab-wrapper  a {
+    box-shadow: 1px 3px 3px 0px #e4e4e4;
+}
+.wooLiveSalenav-tabnav-tab-wrapper .nav-tab {
+    border: 0px;
+    background: white;
+}
+.woo-live-saleTabs{
+    width: 96.8%;
+    background: white;
+    padding: 20px;
+    padding-top: 60px;
+    padding-right: 0px;
+    display: block;
+}
+.setting-left-sp{
+       width: 100%;
+    float: left;
+    background: white;
+    margin-left: -20px;
+    padding: 20px;
+}
+.display-right-sp{
+    width: 50%;
+    float: left;
+}
+.list-sp{
+        display: block;
+    margin-top: 10px;
+    background: whitesmoke;
+    padding: 20px;
+    width: 40%;
+    float: left;
+}
+.poll-left{
+  padding: 3px;
+    background: white;
+    float: left;
+    width: 48%;
+}
+.image-preview-wrapper{
+    padding: 40px;
+}
+.polling-preview-1{
+    text-align: center;
+}
+.names-list{
+    display: block;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 320px;
+}
+.polling-title{
+    text-align: center;
+}
+.person-name{
+        max-width: 180px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 11px;
+}
+.polling-title{
+    width: 100%;
+    text-align:center;
+}
+.list-sp-left{
+    width: 31%;
+    min-width: 300px;
+}
+.list-polling-right{
+    width: 60%;
+}
+.cont-polling {
+    display: flow-root;
+    margin-left: auto;
+    margin-right: auto;
+        max-width: 373px;
+}
+input.radio-select{
+        margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+div.list-polling-right button.delete-current-polling{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+        margin-top: 30px;
+}
+.limitations{
+    
+}
+.short-code-div{
+        padding: 10px;
+    background: #03a9f4;
+    color: white;
+    margin-top: 20px;
+}
+
+.sold-out-overlay {
+background: #654ea3;
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+padding: 5px 10px;
+position: absolute;
+right: 50px;
+top: 10px;
+}
+
+/* xxx */
+.intro_text_class{
+	
+	color:red;
+}
+
+
+.container_left {
+	color: black !important;
+	width: 50% !important;
+	float: left !important;
+	padding-top: 0px !important;
+	padding-left: 25px !important;
+}
+.enter-text {
+	margin-top: 0px !important;
+}
+.enter-text-span {
+	padding-left: 25px !important;
+}
+.container_for_left_and_right {
+	height:24vw;
+	width: 80%;
+	background: #ffffff;
+	border-radius:10px;
+}
+
+.container_right {
+	margin-left: 15%;
+	height: 100%;
+	padding-left: 50px;
+}
+
+.tabbedElements_firstTab {
+	height: 50px;
+}
+
+
+.intro_text_class {
+	color: black;
+}
+
+#arrowd_Colour_free_of_charge_bk {
+	width: 212px !important;
+}
+
+
+.names-list-first-name {
+	margin-bottom: 10px !important;
+	width: 246px !important;
+}
+
+
+.drod_focb-ad {
+	margin-left: 25px !important;
+}
+.button-primary-update-names-and-titles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 8px;
+    padding-top: 4px;
+    background: #e96364;
+    border-color: #000000;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 6px;
+}
+
+.button-primary-update-names-and-titles:hover 
+{
+	background-color: #e7e7e7;
+background: #fff;
+    border-color: #000;
+    color: #2271b1;
+}
